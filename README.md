@@ -1,6 +1,9 @@
-# Smart Coffee Machine Pump using Raspberry Pi & Ultrasonic HC-SR04 sensor.
+# Smart Coffee Machine Pump controlled by Raspberry Pi & Ultrasonic HC-SR04 sensor.
 
-Automatic water pump for a coffee machine using the HC-SR04 sensor, Raspberry Pi and Cloud4RPi.
+Automatic water pump system for SAECO Aulika Focus coffee machine using the HC-SR04 sensor, Raspberry Pi and Cloud4RPi.
+
+For details read the [full article on Medium](https://medium.com/cloud4rpi/smart-coffee-machine-pump-controlled-by-raspberry-pi-hc-sr04-ultrasonic-sensor-bd135598f1a4).
+
 
 ## How to use
 
